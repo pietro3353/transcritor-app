@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers==4.36.2
+ffmpeg-python
+accelerate
+numpy
